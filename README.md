@@ -10,6 +10,8 @@ You are required to build a **fully responsive landing page** using **React with
 
 You are expected to complete **as many sections as possible** from the Figma file within the given timeline. **Quality and accuracy over quantity.**
 
+👉 **Figma Design Link:** [Open Figma]( https://www.figma.com/design/0JHO2KmyVs6a0G2SidMC6j/Diicent-Task?node-id=1-2&t=HGTuP8wNcjGZ2Atw-1 )
+
 ---
 
 ## ✅ Task Requirements:
@@ -49,8 +51,9 @@ src/
 ---
 
 ## 📦 Deliverables:
-1. **Push your code to a new branch** on the provided GitHub repository (link will be shared).
-2. **Create a Pull Request (PR)** to the `main` branch with:
+1. **Create a new branch** in this repository.
+2. **Push your code** to that branch.
+3. **Create a Pull Request (PR)** to the `main` branch in this same repo with:
    - Your **Full Name**
    - Your **Role** (e.g., *Frontend Intern*)
    - A short description of what sections you have implemented
